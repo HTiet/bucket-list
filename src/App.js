@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import BucketForm from './BucketForm.js';
 
 class App extends Component {
   render() {
@@ -8,6 +9,9 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-title">My Bucket List</h1>
         </header>
+
+        <BucketForm />
+
       </div>
     );
   }
