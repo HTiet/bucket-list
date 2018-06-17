@@ -1,0 +1,10 @@
+.row {
+    text-align: left;
+    margin-left: 5em;
+    margin-bottom: 1em;
+}
+
+.btn-outline-info {
+    float: right;
+    margin-right: 5em;
+}
